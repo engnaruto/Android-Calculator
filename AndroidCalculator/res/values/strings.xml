@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="string_cancel">C</string>
+    <string name="string_lbracket">(</string>
+    <string name="string_rbracket">)</string>
+<!--     <string name="string_">0</string> -->
+
+
+    <string name="string_dot">.</string>
+    <string name="string_0">0</string>
+    <string name="string_1">1</string>
+    <string name="string_2">2</string>
+    <string name="string_3">3</string>
+    <string name="string_4">4</string>
+    <string name="string_5">5</string>
+    <string name="string_6">6</string>
+    <string name="string_7">7</string>
+    <string name="string_8">8</string>
+    <string name="string_9">9</string>
+
+    <string name="string_sum">+</string>
+    <string name="string_subtract">-</string>
+    <string name="string_multiplication">*</string>
+    <string name="string_division">/</string>
+    <string name="string_equal">=</string>
+
+
+</resources>
